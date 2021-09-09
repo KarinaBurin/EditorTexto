@@ -1,0 +1,16 @@
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.exe
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.dll
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+E:\Atividades_Balta\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.dll
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+E:\Atividades_Balta\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
